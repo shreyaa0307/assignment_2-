@@ -1,6 +1,4 @@
-2025-09-22 09:30:33,491 - MainProcess - System startup initiated
-2025-09-22 09:30:33,502 - Process-2 - process-2 started
-2025-09-22 09:30:33,504 - Process-1 - process-1 started
-2025-09-22 09:30:35,505 - Process-2 - process-2 ended
-2025-09-22 09:30:35,505 - Process-1 - process-1 ended
-2025-09-22 09:30:35,508 - MainProcess - System shutdown complete
+2025-09-26 20:45:02,979 - Process-1 - Process-1 started
+2025-09-26 20:45:02,983 - Process-2 - Process-2 started
+2025-09-26 20:45:04,980 - Process-1 - Process-1 ended
+2025-09-26 20:45:04,985 - Process-2 - Process-2 ended
